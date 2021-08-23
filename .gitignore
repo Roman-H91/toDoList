@@ -1,7 +1,7 @@
 node_modules
 
-.gitignore
+gitignore
 
-.env
+env
 
 Procfile
